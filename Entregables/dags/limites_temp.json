@@ -1,0 +1,42 @@
+{
+    "sunchales": {
+        "min_temp": 24,
+        "max_temp": 25
+    },
+    "buenos_aires": {
+        "min_temp": 24,
+        "max_temp": 25
+    },
+    "córdoba": {
+        "min_temp": 24,
+        "max_temp": 25
+    },
+    "san_carlos_de_bariloche": {
+        "min_temp": 24,
+        "max_temp": 25
+    },
+    "mendoza": {
+        "min_temp": 24,
+        "max_temp": 25
+    },
+    "rosario": {
+        "min_temp": 24,
+        "max_temp": 25
+    },
+    "rio_de_janeiro": {
+        "min_temp": 24,
+        "max_temp": 25
+    },
+    "playa_del_carmen": {
+        "min_temp": 24,
+        "max_temp": 25
+    },
+    "chicago": {
+        "min_temp": 24,
+        "max_temp": 25
+    },
+    "florence": {
+        "min_temp": 24,
+        "max_temp": 25
+    }
+}

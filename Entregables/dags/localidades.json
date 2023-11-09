@@ -1,0 +1,52 @@
+[
+    {
+        "city_name": "sunchales",
+        "lat": -30.94,
+        "lon": -61.56
+    },
+    {
+        "city_name": "buenos aires",
+        "lat": -34.61,
+        "lon": -58.38
+    },
+    {
+        "city_name": "cordoba",
+        "lat": -31.41,
+        "lon": -64.18
+    },
+    {
+        "city_name": "bariloche",
+        "lat": -41.15,
+        "lon": -71.30
+    },
+    {
+        "city_name": "mendoza",
+        "lat": -32.89,
+        "lon": -68.83
+    },
+    {
+        "city_name": "rosario",
+        "lat": -32.95,
+        "lon": -60.64
+    },
+    {
+        "city_name": "rio de janeiro",
+        "lat": -22.90,
+        "lon": -43.18
+    },
+    {
+        "city_name": "playa del carmen",
+        "lat": 20.63,
+        "lon": -87.08
+    },
+    {
+        "city_name": "chicago",
+        "lat": 41.85,
+        "lon": -87.65
+    },
+    {
+        "city_name": "florencia",
+        "lat": 43.78,
+        "lon": 11.25
+    }
+]
